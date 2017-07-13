@@ -1,2 +1,2 @@
-# fcc-headerparserservice
-Repository containing an express.js solution to the free code camp project for a request header parser service
+#Ross' FCC Header Parser Service
+This is a header parser service which will display the user's ipAddress, Language and browser / os information provided in the user's http request header when the user hits the /whoami endpoint hosted on this site
